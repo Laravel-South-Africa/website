@@ -19,4 +19,5 @@
     <p class="mt-5 mb-1">You can also find us on:</p>
     <p class="mb-1"><a style="color:orange; font-weight: bold;" href="https://zatech.co.za/">zatech.co.za</a> #laravel</p>
     <p class="mb-1"><a style="color:orange; font-weight: bold;" href="https://github.com/Laravel-South-Africa">github.com/laravel-south-africa</a></p>
+    <p class="mb-1"><span style="color:orange; font-weight: bold;">team [at] laravel.org.za</span></p>
 @endsection
